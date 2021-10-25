@@ -1,6 +1,8 @@
 # Duktape stub
 
-[duktape](https://gopkg.in/olebedev/go-duktape.v3) requires `CGO_ENABLED=1`.
+[Duktape](https://github.com/olebedev/go-duktape) is a thin, embeddable javascript engine.
+
+The original implementation of [duktape](https://gopkg.in/olebedev/go-duktape.v3) requires `CGO_ENABLED=1`.
 
 This stub exists as a drop-in replacement for the original implementation - so you can continue to build/use your projects without `CGO_ENABLED=1`.
 
